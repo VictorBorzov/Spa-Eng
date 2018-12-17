@@ -1,1 +1,1 @@
-# Spa-Eng
+# Rus-Eng translator study project
